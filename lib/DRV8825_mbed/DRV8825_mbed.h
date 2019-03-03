@@ -1,5 +1,7 @@
-/* DRV8825 Stepper Motor Driver
-    Step Motor Control Library via DRV8825 */
+/* 
+ * DRV8825 Stepper Motor Driver
+ * Step Motor Control Library via DRV8825 
+ * */
  
 #ifndef MBED_DRV8825_H
 #define MBED_DRV8825_H
